@@ -247,27 +247,6 @@ li {
 }
 
 /*--------------------------------
- Feature
----------------------------------*/
-.feature-item {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.feature-image-wrapper {
-  flex: 0 0 45%;
-  margin-right: 40px;
-}
-
-.feature-body {
-  flex: 1;
-}
-
-.feature-body p:not(:last-child) {
-  margin-bottom: 20px;
-}
-
-/*--------------------------------
  About
 ---------------------------------*/
 .about-section .inner {
@@ -299,7 +278,28 @@ li {
 }
 
 /*--------------------------------
- Skill
+ Education
+---------------------------------*/
+.education-section .inner {
+  max-width: 1000px;
+}
+
+.education-item {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.education-body {
+  flex: 1;
+}
+
+.education-body p:not(:last-child) {
+  margin-bottom: 20px;
+}
+
+/*--------------------------------
+ Skills
 ---------------------------------*/
 .skill-section .inner {
   max-width: 1000px;
