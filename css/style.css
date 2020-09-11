@@ -114,6 +114,11 @@ li {
   height: 86vh;
 }
 
+.header-body {
+  background-image: url("img/header.jpg");
+  background-repeat: no-repeat;
+}
+
 .logo {
   position: relative;
   margin-bottom: 30px;
