@@ -111,8 +111,7 @@ li {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 500px;/*86vh;*/
-  background-image: url("../img/header.jpg");
+  height: 86vh;
 }
 
 .logo {
@@ -120,6 +119,7 @@ li {
   margin-bottom: 30px;
   padding: 0 20px;
   text-align: center;
+  background-image: url("../img/header.jpg");
 }
 
 .logo-title {
