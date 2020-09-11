@@ -112,7 +112,7 @@ li {
   align-items: center;
   justify-content: center;
   height: 86vh;
-	background-image:url("img/header.jpg") center / cover;;
+	background-image:url("img/header.jpg") center / cover;
 }
 
 .logo {
