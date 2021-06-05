@@ -303,6 +303,58 @@ li {
 }
 
 /*--------------------------------
+ Research
+---------------------------------*/
+.research-section .inner {
+  max-width: 1000px;
+}
+
+.research-item {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.research-image-wrapper {
+  flex: 0 0 220px;
+  margin-right: 40px;
+}
+
+.research-image {
+  border-radius: 50%;
+  box-shadow: 0 0 25px 0 #d9d9d9;
+}
+
+.research-body {
+  flex: 1;
+}
+
+.research-body p:not(:last-child) {
+  margin-bottom: 20px;
+}
+
+/*--------------------------------
+ Internships
+---------------------------------*/
+.internships-section .inner {
+  max-width: 1000px;
+}
+
+.internships-item {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.internships-body {
+  flex: 1;
+}
+
+.internships-body p:not(:last-child) {
+  margin-bottom: 20px;
+}
+
+/*--------------------------------
  Skills
 ---------------------------------*/
 .skill-section .inner {
