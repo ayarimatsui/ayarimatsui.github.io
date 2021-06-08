@@ -102,7 +102,7 @@
      * color-2(#F06000)
      */
     --color-1: hsla(182, 82%, 38%, 1);
-    --color-2: hsla(24, 100%, 47%, 1);
+    --color-2: rgba(252, 147, 115, 0.877);
 
     /* theme color variations
      */
