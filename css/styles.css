@@ -56,6 +56,8 @@
  *      ## hero social
  *      ## hero scrolldown
  *      ## animate intro content
+ * # education 
+ *      ## resume block
  * # resume 
  *      ## resume block
  * # portfolio
@@ -3447,7 +3449,7 @@ input[type="button"].btn--primary:focus {
     bottom: 0;
     width: 100%;
     height: 100%;
-    background-image: url(../images/header1.jpg);
+    background-image: url(../images/header2.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
