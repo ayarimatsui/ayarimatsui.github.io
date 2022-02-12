@@ -4147,7 +4147,7 @@ input[type="button"].btn--primary:focus {
     border: 1px solid rgba(255, 255, 255, 0.15);
     color: white;
     border-radius: var(--border-radius);
-    padding: 0 2.0rem;
+    padding: 1.0rem 1.4rem;
     position: absolute;
     top: var(--vspace-1_25);
     left: 4rem;
